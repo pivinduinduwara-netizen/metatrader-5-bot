@@ -1,0 +1,11 @@
+examples/site/** linguist-vendored
+*.yaml linguist-detectable=false
+src/**/*.tsx linguist-detectable
+*.woff binary
+src/**/*.ts linguist-detectable
+vendor/* linguist-vendored
+
+package-lock.json linguist-generated
+*.jpg binary
+*.htm linguist-vendored
+*.json linguist-detectable=false
